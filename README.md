@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @uttamghosh33
+- 👀 I’m interested in web design
+- 🌱 I’m currently learning Bootstrap
+- 📫 How to reach me uttamghosh7215@gmail.com
